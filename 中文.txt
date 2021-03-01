@@ -1,3 +1,0 @@
-export GTK_IM_MODULE=ibus
-213 export QT_IM_MODULE=ibus
-214 export XMODIFIERS=@im=ibus
